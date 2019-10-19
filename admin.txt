@@ -32,5 +32,5 @@
 100006={buygoods="https://gitee.com/top10000/x8/raw/master/buygoods.txt"};
 100007={poster="https://gitee.com/top10000/x8/raw/master/poster.txt"};
 100008={UserUp="https://gitee.com/top10000/x8/raw/master/UserUp.txt"};
-</ADMIN40000>
+</ADMIN40000>11
 </admin>
