@@ -1,0 +1,13 @@
+/*
+*格式：方式|图片|标题|地址
+*方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->打开某APP
+*说明：空白参数用 "*" 代替
+*/
+
+<poster>
+txt01={
+@01="3|http://pics2.baidu.com/feed/bd3eb13533fa828bec9c96304f2d3731960a5a59.jpeg?token=560838e974315a346e50a4df6b6f138c&s=BDA87F7E58336694C60C89E703006063|我帅吗？|http://pics2.baidu.com/feed/bd3eb13533fa828bec9c96304f2d3731960a5a59.jpeg?token=560838e974315a346e50a4df6b6f138c&s=BDA87F7E58336694C60C89E703006063"
+@01="3|http://pics2.baidu.com/feed/bd3eb13533fa828bec9c96304f2d3731960a5a59.jpeg?token=560838e974315a346e50a4df6b6f138c&s=BDA87F7E58336694C60C89E703006063|我帅吗？|http://pics2.baidu.com/feed/bd3eb13533fa828bec9c96304f2d3731960a5a59.jpeg?token=560838e974315a346e50a4df6b6f138c&s=BDA87F7E58336694C60C89E703006063"
+@01="3|http://pics2.baidu.com/feed/bd3eb13533fa828bec9c96304f2d3731960a5a59.jpeg?token=560838e974315a346e50a4df6b6f138c&s=BDA87F7E58336694C60C89E703006063|我帅吗？|http://pics2.baidu.com/feed/bd3eb13533fa828bec9c96304f2d3731960a5a59.jpeg?token=560838e974315a346e50a4df6b6f138c&s=BDA87F7E58336694C60C89E703006063"
+};
+</poster>

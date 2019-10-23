@@ -1,0 +1,13 @@
+<version>2.3973</version>-----这里是你的版本号
+
+<explain>111111</explain>-----这里是更新内容
+
+<update>http://www.kczhuanba.cn/kckk</update>-----这里是更新软件的下载地址
+
+<analysis>http://y.mt2t.com/lines?url=</analysis>-----这里是解析接口1
+<analysis2>http://www.714xy.com/vipjx/index.php?url=</analysis2>-----这里是解析接口2
+<analysis3>http://www.147xy.top/24v/index.php/?url=</analysis3>-----这里是解析接口3
+
+
+
+<text>我正在使用#免VIP看视频#不用开通VIP会员账号,直接观看全网VIP视频!省钱利器!!!安卓版软件下载地址：http://t.cn/RTxdcs0</text>-----这里是分享内容

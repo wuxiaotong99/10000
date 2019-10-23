@@ -1,0 +1,15 @@
+﻿/*
+*格式：方式|图片|标题|地址|备注
+*方式：0->无反应,1->浏览器直接打开,2->浏览器带接口打开,3->播放器打开
+*/
+
+<UserUp>
+@x="1|http://t.cn/RHDbUXb|前任3：再见前任|http://yj.yongjiu6.com/share/PSaG5XSjOYuacB3b|爱情片"
+@x="1|http://t.cn/RHDhqpm|两个女人的诱惑|http://1.tcpspc.com:2100/share/0pFjBbaEAvtaS3Ci|日韩伦理"
+@x="3|http://t.cn/RHDAKVc|浮生|http://zuixin.zuixinbo.com/20180107/1G6m24Yk/index.m3u8|剧情片"
+@x="3|http://t.cn/RHDAsxR|女巫斗恶龙|http://n.bwzybf.com/20171227/LrxYoJpC/mp4/LrxYoJpC.mp4|剧情片 魔幻"
+@x="3|http://t.cn/RHDAgBL|女杀油地狱|http://n.bwzybf.com/20171228/PjjAxmCC/index.m3u8|伦理片"
+@x="1|http://t.cn/RHDLS1z|爱之涡|https://baiduyuan.veryys.com/share/XCtwlXnpWC1ELlZi|伦理片"
+@x="1|http://t.cn/RHDL9Ke|忌日快乐|https://baiduyuan.veryys.com/share/NF2GaXfmLFxdc2Nm|恐怖片 惊悚"
+@x="1|http://t.cn/RHDbQiN|这就是命|http://j.88gc.net/jx/?url=http://www.mgtv.com/b/318785/4201170.html|喜剧"
+</UserUp>

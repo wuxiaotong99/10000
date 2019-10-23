@@ -1,0 +1,30 @@
+<央视直播频道>
+@01="CCTV-1 综合|http://202.107.188.246:5002/cctv1_hdcq-1.m3u8?token=radio366"
+@01="CCTV-2 财经|http://202.107.188.246:5002/cctv2_hdcq-1.m3u8?token=radio366"
+@01="CCTV-3 综艺|http://202.107.188.246:5002/cctv3_hdcq-1.m3u8?token=radio366"
+@01="CCTV-4 亚洲|http://t.cn/RlnqVI7"
+@01="CCTV-4 欧洲|http://t.cn/Rln5ekX"
+@01="CCTV-4 美国|http://t.cn/Rln5c97"
+@01="CCTV-5 体育|http://t.cn/RlntxZX"
+@01="CCTV-5 体育|http://202.107.188.246:5002/cctv5_hdcq-1.m3u8?token=radio366"
+@01="CCTV-6 电影|http://t.cn/RlntgHt"
+@01="CCTV-6 电影|http://202.107.188.246:5002/cctv6_hdcq-1.m3u8?token=radio366"
+@01="CCTV-7 军事农业|http://t.cn/RlncM0U"
+@01="CCTV-8 电视剧|http://t.cn/RlnfHWa"
+@01="CCTV-8 电视剧|http://202.107.188.246:5002/cctv8_hdcq-1.m3u8?token=radio366"
+@01="CCTV-9 记录|http://t.cn/RlnIATc"
+@01="CCTV-10 科教|http://t.cn/RlnIq0I"
+@01="CCTV-10 科教|http://202.107.188.246:5002/cctv10_hdcq-1.m3u8?token=radio366"
+@01="CCTV-11 戏曲|http://t.cn/RlnITAY"
+@01="CCTV-12 社会与法|http://t.cn/RlnMvrm"
+@01="CCTV-13 新闻|http://t.cn/RlnMl5Z"
+@01="CCTV-14 少儿|http://t.cn/Rlnx7yt"
+@01="CCTV-15 音乐|http://t.cn/Rlnxc5J"
+@01="CCTV5+ 体育赛事|http://t.cn/RlnJhFb"
+</央视直播频道>
+
+<卫视直播频道>
+@02="|"
+</卫视直播频道>
+
+
